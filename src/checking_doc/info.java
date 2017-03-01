@@ -20,10 +20,7 @@ import org.openxmlformats.schemas.wordprocessingml.x2006.main.CTR;
 import org.openxmlformats.schemas.wordprocessingml.x2006.main.CTSectPr;
 import org.openxmlformats.schemas.wordprocessingml.x2006.main.CTText;
 
-/**
- *
- * @author Daniel
- */
+
 public class info {
     public String wave_to_doc;
     private static String HighKolontit;

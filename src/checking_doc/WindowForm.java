@@ -11,10 +11,6 @@ import java.io.FileFilter;
 import javax.swing.JFileChooser;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Daniel
- */
 public class WindowForm extends javax.swing.JFrame {
     
         info obh = new info();
